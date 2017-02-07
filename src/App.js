@@ -29,6 +29,6 @@ class App extends Component {
       </div>
     );
   }
-}
+}https://www.gorkahernandez.com/blog/weather-app-the-react-way/
 
 export default App;
